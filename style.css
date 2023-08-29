@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(15, 15, 15);
+    background-image: linear-gradient(to bottom,aqua, pink) ;
     
 }
 
@@ -14,7 +14,7 @@ body{
 
 .main-sample{
     position: relative;
-    width: 100px;
+    width: 100px;   
     top: 30px;
     left: -50px;
     /* height: 390px; */
